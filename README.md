@@ -1,2 +1,9 @@
 # ping-the-discord-server
-Discord Sunucularına Ddos Olmayan Ama onu andırdan kolay kullanımlı bot.
+Sesin Pingini arttırır. Sunucunun pingini arttırır.
+
+# Kurulum
+Sadece Token Girmeniz Yeterli. 
+
+# Kullanım
+
+!sese vur
