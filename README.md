@@ -1,3 +1,5 @@
+# 10 Starda Sizlerle!
+
 # ping-the-discord-server
 Sesin Pingini arttırır. Sunucunun pingini arttırır.
 
