@@ -1,4 +1,4 @@
-# 10 Starda Sizlerle!
+# 10 Starda Sizlerle! (Son 2 Star)
 ![Adsız](https://i.imgur.com/B0bkRff.gif)
 
 # ping-the-discord-server
