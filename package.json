@@ -1,0 +1,17 @@
+{
+  "name": "sunucu-ping",
+  "version": "1.0.0",
+  "description": "Discord sunucu pingi attırma",
+  "main": "spanker.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "spanker"
+  ],
+  "author": "Spanker",
+  "license": "ISC"
+}
