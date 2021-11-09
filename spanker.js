@@ -21,16 +21,6 @@ const panker = [
   'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
   'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
   'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
-  'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA'  , 
-    'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
-  'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
-  'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
-  'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
-  'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
-  'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
-  'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
-  'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
-  'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA',
   'ODkyNzYwNzI5NzMwNTc2NDM0.TokenYazcNAknKyOKsAcALISmAZvlLA'  
 ];
 
