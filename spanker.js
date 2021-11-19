@@ -7,6 +7,7 @@ const client = new Discord.Client();
 
 
 // Sınavım var ben ne yapıyorum off neyse edebiyat sınavıma çalışmaya gidiyorum saat 23:35 0 bilgi offfff
+// Edebiyat sınavından çıktım iyi geçti arkadaşdan kağıdı geçirdim :p
 
 const serverUpdateCommands = '!sese vur'
 const eski_haline_getir = '!eski haline getir'
