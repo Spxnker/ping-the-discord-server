@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 // 5, 6 Saniyelik Ses bağlantınız gider arkadaşlarınıza çaka yapmak içni bire bir.
 // ya da sunucu patlatacaksınız sunucunun pinigini attırmak için 'de kullanılabilir.
-
+// Sınav açıklandı 56 almışım annazını sikeyim
 
 // Sınavım var ben ne yapıyorum off neyse edebiyat sınavıma çalışmaya gidiyorum saat 23:35 0 bilgi offfff
 // Edebiyat sınavından çıktım iyi geçti arkadaşdan kağıdı geçirdim :p
